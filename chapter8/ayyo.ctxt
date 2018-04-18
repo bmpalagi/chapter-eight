@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ayyo()
+comment1.params=monataryGoal
+comment1.target=int\ collect(int)
+comment2.params=price
+comment2.target=void\ billChoice(int)
+comment3.params=price
+comment3.target=java.lang.String\ hundreds(int)
+comment4.params=price
+comment4.target=java.lang.String\ twenties(int)
+comment5.params=price
+comment5.target=java.lang.String\ tens(int)
+comment6.params=price
+comment6.target=java.lang.String\ fives(int)
+comment7.params=price
+comment7.target=java.lang.String\ ones(int)
+numComments=8

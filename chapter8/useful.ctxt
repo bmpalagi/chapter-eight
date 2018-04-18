@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=useful()
+comment1.params=num1\ num2
+comment1.target=int\ gcd(int,\ int)
+comment2.params=p
+comment2.target=boolean\ palindrome(java.lang.String)
+numComments=3
