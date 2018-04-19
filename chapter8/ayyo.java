@@ -27,8 +27,8 @@ public class ayyo
     }
     
     
-    
-    
+}
+    /*
     
     
     public void billChoice(int price)
