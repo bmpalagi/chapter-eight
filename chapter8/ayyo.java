@@ -6,7 +6,7 @@ public class ayyo
     
     public int collect(int monataryGoal)
     {
-        System.out.println(monataryGoal);
+        //System.out.println(monataryGoal);
         
         if (monataryGoal == 1)
             return 0;

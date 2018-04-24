@@ -30,7 +30,7 @@ public class recursiveTriangle18 extends JApplet
    public void paint (Graphics page)
    {
 
-        page.setColor (Color.red);
+        page.setColor (Color.magenta);
         page.drawPolyline (xPos, yPos, xPos.length);
 
         Triangle(xPos,yPos,page);
@@ -62,7 +62,7 @@ public class recursiveTriangle18 extends JApplet
        double d = distance(xPos[0],yPos[0],xPos[1],yPos[1]);
        
        //Base case; if a triangle leg is less than ten it stops the recursion
-       if (d < 10)
+       if (d < 9)
        {
            return;
        }

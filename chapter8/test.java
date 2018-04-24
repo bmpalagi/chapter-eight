@@ -6,9 +6,12 @@ public class test
     {
         ayyo tes = new ayyo();
         useful pal = new useful();
-        System.out.println("You called " + tes.collect(1000));
+        System.out.println(tes.collect(1000));
         
-        System.out.println(pal.palindrome("ayya"));
+        System.out.println(pal.palindrome("Brad"));
+        
+        //System.out.println(pal.gcd(25,15));
+        
     }
 
 }
